@@ -41,4 +41,4 @@
 <hr/>
 
 <h3 align="left">Season Rank:</h3>
-<p><img src="https://github-profile-trophy.vercel.app/?username=otavioaraujo08&theme=dracula&" alt="otavioaraujo08" width="100%" height="300rem" /></a> </p>
+<p><img src="https://github-profile-trophy.vercel.app/?username=otavioaraujo08&theme=dracula&" alt="otavioaraujo08" width="100%" height="auto" /></a> </p>
