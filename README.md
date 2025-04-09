@@ -5,8 +5,6 @@
 
 <hr/>
 
-<img width="100%" height="auto" src="https://media3.giphy.com/media/v1. Y2lkPTc5MGI3NjExdWxndmtmNDJwYXVsNWlwbjRjODhkZTMwYnM5d2V3ZWVla2Y3aHY4ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif"/>
-
 - 🔭 I’m currently working on [vault-games](https://github.com/OtavioAraujoS/vault-games)
 
 - 🌱 I’m currently learning **Node JS - Nest Js - Jest**
@@ -18,6 +16,8 @@
 - 📫 How to reach me **otaviodev08@gmail.com**
 
 - ⚡ Fun fact: **I think I am funny**
+
+<img width="100%" height="auto" src="https://media3.giphy.com/media/v1. Y2lkPTc5MGI3NjExdWxndmtmNDJwYXVsNWlwbjRjODhkZTMwYnM5d2V3ZWVla2Y3aHY4ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif"/>
 
 <hr/>
  
