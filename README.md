@@ -5,7 +5,7 @@
 
 <hr/>
 
-<img align="center" width="38%" src="https://media3.giphy.com/media/v1. Y2lkPTc5MGI3NjExdWxndmtmNDJwYXVsNWlwbjRjODhkZTMwYnM5d2V3ZWVla2Y3aHY4ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif"/>
+<img width="100%" height="auto" src="https://media3.giphy.com/media/v1. Y2lkPTc5MGI3NjExdWxndmtmNDJwYXVsNWlwbjRjODhkZTMwYnM5d2V3ZWVla2Y3aHY4ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif"/>
 
 - 🔭 I’m currently working on [vault-games](https://github.com/OtavioAraujoS/vault-games)
 
