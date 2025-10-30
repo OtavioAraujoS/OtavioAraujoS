@@ -1,5 +1,3 @@
-<img src="public/githubBanner.png" width="100%" height="auto"/>
-
 <h1 align="center">Hi 👋, I'm Otávio Araujo</h1>
 <h3 align="center">Web Developer & passionate about art and programming</h3>
 
