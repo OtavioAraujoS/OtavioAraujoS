@@ -29,9 +29,9 @@
 <h3 align="left">Github Stats:</h3>
 <div>
  <div align="justify-between">
-   <a href="https://github.com/otavioaraujo08">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=otavioaraujo08&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" width="60%" height="auto"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=otavioaraujo08&layout=compact&langs_count=7&theme=dracula" width="30%" height="auto"/>
+   <a href="https://github.com/OtavioAraujoS">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=OtavioAraujoS&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" width="60%" height="auto"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OtavioAraujoS&layout=compact&langs_count=7&theme=dracula" width="30%" height="auto"/>
    </a>
  </div>
 </div>
@@ -39,4 +39,4 @@
 <hr/>
 
 <h3 align="left">Season Rank:</h3>
-<p><img src="https://github-profile-trophy.vercel.app/?username=otavioaraujo08&theme=dracula&" alt="otavioaraujo08" width="100%" height="auto" /></a> </p>
+<p><img src="https://github-profile-trophy.vercel.app/?username=OtavioAraujoS&theme=dracula&" alt="OtavioAraujoS" width="100%" height="auto" /></a> </p>
